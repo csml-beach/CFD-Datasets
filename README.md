@@ -12,4 +12,4 @@
 # CGL ETH Zurich Dataset
 * Unsteady flow of heated tube. Single geometry solution.
 * 2D Unsteady Heated Cylinder with Boussinesq Approximation
-*[Link](https://cgl.ethz.ch/research/visualization/data.php)
+* [Link](https://cgl.ethz.ch/research/visualization/data.php)
