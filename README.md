@@ -8,6 +8,7 @@
 2D steady state flow. Includes flow pas step, periodic bump and other variants. Inluces multiple solver solutions and gradients. 
 * Primary purpose:  curated dataset for modelling the Reynolds stress tensor in RANS
 * [Link](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset/data)
+* [Paper](https://www.nature.com/articles/s41597-021-01034-2)
 
 # CGL ETH Zurich Dataset
 * Unsteady flow of heated tube. Single geometry solution.
